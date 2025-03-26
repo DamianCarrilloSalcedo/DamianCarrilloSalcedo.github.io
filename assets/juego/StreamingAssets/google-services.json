@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1058676886085",
+    "firebase_url": "https://ridetosurvive-64cda-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ridetosurvive-64cda",
+    "storage_bucket": "ridetosurvive-64cda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058676886085:android:ad9d5e09d3b8f27c7f312c",
+        "android_client_info": {
+          "package_name": "com.RideToSurvive.desktopApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5JxdXA4VJdFLpcDqm1UEC0tXzjrldBLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
